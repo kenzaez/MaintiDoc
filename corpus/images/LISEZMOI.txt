@@ -1,5 +1,0 @@
-Placer ici les 8 photos issues de SprAachen/Android-Screen-Defects (licence MIT), renommees exactement :
-photo_ecran_a_01.jpg ... photo_ecran_a_04.jpg (ECR-A-01)
-photo_ecran_b_01.jpg ... photo_ecran_b_04.jpg (ECR-B-02)
-Puis completer dans inventaire.csv : index de l'image, classe, elements_visuels, verifie_par, corrections.
-Supprimer ce fichier avant le depot.
