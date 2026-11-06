@@ -1,4 +1,4 @@
-# MaintiDoc : livrable 1 (cadrage, corpus et architecture)
+# MaintiDoc 
 
 **Equipe ELFATIMI-EZZAHED** : Oumnia EL FATIMI, Kenza EZZAHED (5IAD G1)
 Module IA generative multimodale, EMSI 2026, Pr. Mariam CHERRABI
